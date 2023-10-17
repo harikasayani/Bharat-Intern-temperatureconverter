@@ -1,0 +1,21 @@
+.inside{
+    margin:25%;
+    margin-left:30%;
+    margin-top:15%;
+ }
+ .inside{
+    border-style:solid;
+    color:chocolate;
+    box-sizing: border-box;
+    padding-left: 20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    margin-left:30px;
+    margin-right: 600px;
+    background-color: white;
+ }
+ body{
+    background-image: url(back.png);
+    overflow: hidden;
+    background-size:cover;
+ }
